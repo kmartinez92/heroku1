@@ -1,0 +1,58 @@
+body {
+    font-size: 15px
+}
+
+h5 {
+	font-size: 20px;
+}
+
+h6 {
+    font-size: 15px
+}
+
+.form-control {
+    font-size: 10px;
+}
+
+.btn-lg {
+    font-size: 1.6rem;
+    border-radius: 5px 20px 5px;
+}
+
+.imgPic {
+	width: 200px;
+	height: 180px;
+}
+
+.cardSpace {
+	margin-bottom: 30px;
+}
+
+.titleSpace {
+    margin-top:30px;
+	margin-bottom: 30px;
+}
+.cardColor {
+	border-top: 1px solid black;
+	text-align: center;
+	background-color: gainsboro;
+}
+
+.bottomTextSpace {
+	margin-bottom: 15px;
+}
+.marginSpace {
+	margin: 15px;
+	border: 1px solid black;
+}
+
+.btn-space {
+	/* margin-left: auto; */
+	margin-right: 9px;
+	margin-bottom: 30px;
+}
+
+.borderLine {
+	border: 1px dashed black;
+	padding: 20px;
+}
